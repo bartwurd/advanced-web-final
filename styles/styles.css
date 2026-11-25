@@ -18,8 +18,17 @@ padding-top: 20px;
 margin-top: 20px;
 }
 
+.container {
+    max-width: 95%;
+}
+
 footer {
     height: 200px;
     width: 90%;
     background: #f5c253;
+}
+
+.grid-item a img{
+    max-width: 300px;
+    height: auto;
 }
